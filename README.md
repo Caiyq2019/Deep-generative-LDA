@@ -1,7 +1,7 @@
 # Deep-LDA
 A Pytorch implementations of a deep generative version of LDA for author's article ["Deep generative LDA"](https://arxiv.org/)
 
-The neural network structure is based on "Masked Autoregressive Flow", and the source code from [ikostrikov](https://github.com/ikostrikov/pytorch-flows/blob/master/README.md)
+Code inherited from ["DNF"] (https://github.com/Caiyq2019/Deep-normalization-for-speaker-vectors)
 
 ## Datasets
 ```bash
