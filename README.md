@@ -1,7 +1,7 @@
 # Deep-LDA
 A Pytorch implementations of a deep generative version of LDA for author's article ["Deep generative LDA"](https://arxiv.org/)
 
-Code inherited from ["DNF"] (https://github.com/Caiyq2019/Deep-normalization-for-speaker-vectors)
+Code inherited from ["DNF"](https://github.com/Caiyq2019/Deep-normalization-for-speaker-vectors)
 
 ## Datasets
 ```bash
